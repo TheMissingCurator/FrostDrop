@@ -1,6 +1,6 @@
 # SnowDrop
 
-Research notes and documentation from an ongoing effort to understand the PC version of *Tom Clancy’s The Division* and its startup, network, profile, and world-session behavior. The work was recorded under the name Project ISAC.
+Research notes and documentation from an ongoing effort to RE the PC version of *Tom Clancy’s The Division* and its startup, network, profile, and world-session behavior. The work was recorded under the name Project ISAC.
 
 ## Read the research
 
@@ -9,6 +9,12 @@ Research notes and documentation from an ongoing effort to understand the PC ver
 - [Architecture notes](docs/architecture.md) describe the investigated service boundaries.
 - [Documentation](docs/) preserves test procedures and implementation notes from the research.
 
-This publication contains documentation only. The backend, instrumentation source, binaries, game files, and private captures are not included. Commands in historical notes may refer to those unpublished files and are not runnable from this repository alone. Absolute paths from the original workstation have been replaced with `/path/to/...` placeholders.
+This publication contains documentation only. The backend, instrumentation source, binaries, and game files are not included. Commands in historical notes may refer to those unpublished files and are not runnable from this repository alone.
 
 Findings are point-in-time observations. Later notes may revise earlier interpretations; read the dated evidence and stated limits before relying on a claim.
+
+
+## Notes!
+- Low key a vibe coded project!
+- Hopefully this is enough for anyone else to start their own projects! I would much rather have someone competent to work on this then me!
+- I will be attempting to get the actual backend out but atm I have no clue if it even works on other machines besides mine! so yk... 

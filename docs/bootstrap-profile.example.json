@@ -1,0 +1,10 @@
+{
+  "description": "Synthetic framing test values; not a game-compatible profile",
+  "expected_marker": 3,
+  "login_request_type": 2,
+  "control_request_type": 5,
+  "control_request_channel": 10,
+  "correlate_control_response": true,
+  "type0002_body_hex": "00",
+  "type0006_body_hex": "0000"
+}

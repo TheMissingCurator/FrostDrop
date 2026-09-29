@@ -1,0 +1,10 @@
+{
+  "description": "Synthetic structurally valid type-0x0003 response with empty semantic values; not yet proven game-compatible",
+  "expected_marker": 3,
+  "login_request_type": 2,
+  "control_request_type": 5,
+  "control_request_channel": 10,
+  "correlate_control_response": true,
+  "type0003_body_hex": "000000000000000000000000000000000000000000",
+  "type0006_body_hex": "0000"
+}

@@ -2,8 +2,7 @@
 
 Research, documentation, and experimental backend code from an ongoing effort to RE the PC version of *Tom Clancy’s The Division*. The work was recorded under the name Project ISAC. Linux running the Windows game through Steam Proton is the main test environment.
 
-This is BYO files, frostdrop does not provide any game files. 
-
+FrostDrop does not include or redistribute Ubisoft game files, binaries, assets, credentials, or keys. Users must provide their own compatible copy of Tom Clancy’s The Division.
 ## Notes!
 
 - Low key a vibe coded project! 

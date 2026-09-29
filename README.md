@@ -2,6 +2,13 @@
 
 Research, documentation, and experimental backend code from an ongoing effort to RE the PC version of *Tom Clancy’s The Division*. The work was recorded under the name Project ISAC. Linux running the Windows game through Steam Proton is the main test environment.
 
+## Notes!
+
+- Low key a vibe coded project! 
+- Hopefully this is enough for anyone else to start their own projects! I would much rather have someone competent to work on this then me!
+- The backend code is here now, but I still have no clue if it works on other machines besides mine! so yk...
+
+
 ## Read the research
 
 - [Startup observations](research/startup-observations.md) introduce the initial network and process observations.
@@ -22,10 +29,3 @@ Private captures, local profiles, generated certificates and keys, compiled bina
 Run the source tests with `PYTHONPATH=src python3 -m unittest discover -s tests`. Tests needing Steam/Proton, a debugger, or private research fixtures are opt-in or skipped when their prerequisites are absent. A passing source suite does not establish a playable retail-client session.
 
 Findings are point-in-time observations. Later notes may revise earlier interpretations; read the dated evidence and stated limits before relying on a claim.
-
-
-## Notes!
-
-- Low key a vibe coded project!
-- Hopefully this is enough for anyone else to start their own projects! I would much rather have someone competent to work on this then me!
-- The backend code is here now, but I still have no clue if it works on other machines besides mine! so yk...

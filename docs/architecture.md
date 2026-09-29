@@ -27,7 +27,7 @@ design but is not on the critical path yet.
 
 ## Components
 
-### 1. ISAC launcher
+### 1. FrostDrop launcher (think spt, also chatGPT wrote this so uh, dont kill me?)
 
 - Locates a user-supplied installation.
 - Checks the known executable/DLL hashes for the selected game build.
@@ -78,7 +78,7 @@ locally remains an open research question.
 Implements the game's own authentication/session/world boundary after the
 local Uplay API is satisfied. This is separate from Ubisoft Connect emulation.
 
-## Ownership policy
+## Ownership policy 
 
 An unofficial offline launcher cannot authoritatively prove ownership to
 Ubisoft while disconnected. Project ISAC should instead:

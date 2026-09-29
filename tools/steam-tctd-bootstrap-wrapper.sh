@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+if [[ $# -eq 0 ]]; then
+    echo "Usage: steam-tctd-bootstrap-wrapper.sh STEAM_COMMAND [ARGUMENT ...]" >&2
+    exit 2
+fi
+# Old capture modes must not compete for hardware breakpoint slots.
+for variable in "${!ISAC_@}"; do
+    unset "$variable"
+done
+export ISAC_STACK_PROBE=1
+export ISAC_LOCAL_BACKEND_BRIDGE=1
+export ISAC_TRANSPORT_STARTUP_PROBE=1
+export ISAC_TCTD_PC_LOOPBACK=1
+export ISAC_TCTD_LOCAL_ACCEPT=1
+exec "$@"

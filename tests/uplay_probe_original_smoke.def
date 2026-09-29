@@ -1,0 +1,3 @@
+LIBRARY uplay_r1_loader64_isac_original
+EXPORTS
+    UPLAY_USER_IsOwned=isac_fake_owned @78

@@ -81,7 +81,7 @@ local Uplay API is satisfied. This is separate from Ubisoft Connect emulation.
 ## Ownership policy 
 
 An unofficial offline launcher cannot authoritatively prove ownership to
-Ubisoft while disconnected. Project ISAC should instead:
+Ubisoft while disconnected. FrostDrop should instead:
 
 - require users to provide their own installed assets;
 - distribute no Ubisoft binaries, assets, credentials, or keys;

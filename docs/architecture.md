@@ -27,7 +27,7 @@ design but is not on the critical path yet.
 
 ## Components
 
-### 1. FrostDrop launcher (think spt!)
+### 1. FrostDrop launcher (think spt! Also not included as it has yet to be made!)
 
 - Locates a user-supplied installation.
 - Checks the known executable/DLL hashes for the selected game build.

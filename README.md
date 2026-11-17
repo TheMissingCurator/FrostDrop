@@ -8,6 +8,7 @@ FrostDrop does not include or redistribute Ubisoft game files, binaries, assets,
 - Low key a vibe coded project! 
 - Hopefully this is enough for anyone else to start their own projects! I would much rather have someone competent to work on this then me!
 - The backend code is here now, but I still have no clue if it works on other machines besides mine! so yk...
+- This is no longer being worked on! 
 
 
 ## Read the research
